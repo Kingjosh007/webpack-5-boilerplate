@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/Kingjosh007/webpack-5-boilerplate#readme",
   "devDependencies": {
+    "html-webpack-plugin": "^5.5.0",
     "webpack": "^5.71.0",
     "webpack-cli": "^4.9.2"
   },
