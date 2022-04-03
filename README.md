@@ -1,4 +1,4 @@
-# webpack-boilerplate
+# Webpack 5 Boilerplate
 
 > A simple yet powerful Webpack 5 boilerplate, which you may later use as a starting point in your projects. Created following the video named [Webpack 5 Crash Course | Frontend Development Setup](https://www.youtube.com/watch?v=IZGNcSuwBZs) from [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA).
 
