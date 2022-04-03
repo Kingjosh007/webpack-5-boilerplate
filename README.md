@@ -1,6 +1,6 @@
 # webpack-boilerplate
 
-> A simple yet powerful Webpack boilerplate, which you may later use as a starting point in your projects. Created with the help of the [Webpack official guides](https://webpack.js.org/guides/getting-started/#basic-setup)
+> A simple yet powerful Webpack 5 boilerplate, which you may later use as a starting point in your projects. Created following the video named [Webpack 5 Crash Course | Frontend Development Setup](https://www.youtube.com/watch?v=IZGNcSuwBZs) from [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA).
 
 
 ## Getting Started
@@ -8,8 +8,10 @@
 To get a local copy of this project, do the following: 
 
 1. In your terminal, `cd` to the folder where you want to copy this project.
-2. Still in your terminal, type `git clone git@github.com:Kingjosh007/webpack-boilerplate.git` 
-3. In your file explorer, open the index.html file inside the `webpack-boilerplate` folder.
+2. Still in your terminal, type `git clone git@github.com:Kingjosh007/webpack-5-boilerplate.git` 
+3. In your terminal, type `cd webpack-5-boilerplate`
+4. Still in your terminal, type `npm install`
+5. Then, type `npm start` to start the development server.
 
 ## Built With
 
