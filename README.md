@@ -22,9 +22,11 @@ To get a local copy of this project, do the following:
 
 👤 **King Josaphat Chewa (KJC)**
 
-- GitHub: [@Kingjosh007](https://github.com/Kingjosh007)
-- Twitter: [@KingJoChewa](https://twitter.com/KingJoChewa)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/king-josaphat-chewa-aa154011b/)
+<a href="https://github.com/Kingjosh007">![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)</a> &nbsp; &nbsp;
+<a href="https://twitter.com/KingJoChewa"> ![Twitter](https://img.shields.io/badge/KingJoChewa-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a> &nbsp; &nbsp;
+<a href="https://www.linkedin.com/in/king-josaphat-chewa/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a> &nbsp; &nbsp;
+<a href="https://angel.co/u/Kingjosh007">![AngelList](https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black)</a>
+
 
 ## Show your support
 
@@ -33,8 +35,8 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Heartfelt thanks to [Microverse](https://www.microverse.org/)
+- [Brad Traversy (Traversy Media)](https://www.youtube.com/watch?v=IZGNcSuwBZs)
 
 ## 📝 License
 
-This project is [MIT](./MIT.md) licensed.
+This project is **MIT** licensed.
