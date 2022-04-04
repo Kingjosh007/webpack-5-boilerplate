@@ -4,7 +4,8 @@
   "description": "> A simple yet powerful Webpack 5 boilerplate, which you may later use as a starting point in your projects. Created following the video named [Webpack 5 Crash Course | Frontend Development Setup](https://www.youtube.com/watch?v=IZGNcSuwBZs) from [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA).",
   "main": "index.js",
   "scripts": {
-    "build": "webpack"
+    "build": "webpack",
+    "dev": "webpack serve"
   },
   "repository": {
     "type": "git",
@@ -20,7 +21,8 @@
   "devDependencies": {
     "html-webpack-plugin": "^5.5.0",
     "webpack": "^5.71.0",
-    "webpack-cli": "^4.9.2"
+    "webpack-cli": "^4.9.2",
+    "webpack-dev-server": "^4.7.4"
   },
   "dependencies": {
     "css-loader": "^6.7.1",
