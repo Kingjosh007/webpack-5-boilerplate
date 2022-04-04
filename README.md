@@ -11,7 +11,8 @@ To get a local copy of this project, do the following:
 2. Still in your terminal, type `git clone git@github.com:Kingjosh007/webpack-5-boilerplate.git` 
 3. In your terminal, type `cd webpack-5-boilerplate`
 4. Still in your terminal, type `npm install`
-5. Then, type `npm start` to start the development server.
+5. Type `npm run build` to build the project from the src folder into the dist folder
+6. Type `npm run dev` to start the development server. The app will be available at http://localhost:3000/ and the browser should open automatically.
 
 ## Built With
 
