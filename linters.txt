@@ -1,0 +1,3 @@
+WebHint: npx hint .
+StyleLint: npx stylelint "**/*.{css,scss}" --fix
+ESLint: npx eslint . --fix
