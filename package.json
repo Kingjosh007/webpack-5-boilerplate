@@ -19,6 +19,9 @@
   },
   "homepage": "https://github.com/Kingjosh007/webpack-5-boilerplate#readme",
   "devDependencies": {
+    "@babel/core": "^7.17.8",
+    "@babel/preset-env": "^7.16.11",
+    "babel-loader": "^8.2.4",
     "html-webpack-plugin": "^5.5.0",
     "webpack": "^5.71.0",
     "webpack-cli": "^4.9.2",
