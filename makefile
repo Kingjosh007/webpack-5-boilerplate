@@ -4,10 +4,10 @@ gacp:
 	git push -u origin $b
 
 wprb:
-	rm -r dist
+	if [ -a dist ]; then rm -rf dist; fi;
 	npm run build
 
 wprbo:
-	rm -r dist
+	if [ -a dist ]; then rm -rf dist; fi;
 	npm run build
-	npm run dev
+	npm run 

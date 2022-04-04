@@ -28,6 +28,7 @@
     "webpack-dev-server": "^4.7.4"
   },
   "dependencies": {
+    "axios": "^0.26.1",
     "css-loader": "^6.7.1",
     "sass": "^1.49.11",
     "sass-loader": "^12.6.0",
