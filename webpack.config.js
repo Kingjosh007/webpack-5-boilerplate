@@ -11,6 +11,7 @@ module.exports = {
         filename: '[name]-[contenthash].js',
         clean: true  // Keep only the latest version of the output file
     },
+    devtool: 'source-map',
     devServer: {
         static: {
             directory: path.resolve(__dirname, 'dist')

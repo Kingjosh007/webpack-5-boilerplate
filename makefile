@@ -6,3 +6,8 @@ gacp:
 wprb:
 	rm -r dist
 	npm run build
+
+wprbo:
+	rm -r dist
+	npm run build
+	npm run dev
