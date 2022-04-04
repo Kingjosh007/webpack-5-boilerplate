@@ -4,3 +4,4 @@ dist
 .eslintrc
 .hintrc
 .stylelintrc
+linters.txt
